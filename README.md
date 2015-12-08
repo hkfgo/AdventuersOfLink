@@ -2,4 +2,4 @@ My final project for Comp 160 class at Rice University. This is a 2D Arcade game
 
 Implemented features include game menu, multiple enemies, levels and character attacks. I also recently added in some sprite animations.
 
-The main program is extremely long because CodeSkulptor is, unfortunately, not the code editor.
+The main program is extremely long because CodeSkulptor is, unfortunately, not best the code editor.
